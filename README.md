@@ -1,7 +1,7 @@
 ### Oláá! Eu sou o Alee, é um prazer te ter por aqui! 👋
 
 - 🔭 Atualmente trabalho como suporte técnico
-- 🌱 Estundado JavaScript/CSS3/HTML5
+- 🌱 Estundado JavaScript - CSS3 - HTML5
 - 📫 Contate-me no email: alee_meier@outlook.com
 
 <div align="center">
