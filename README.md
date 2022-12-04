@@ -4,6 +4,8 @@
 - 🌱 Atualmente estou estundado JavaScript - CSS3 - HTML5
 - 📫 Contate-me no email: alee_meier@outlook.com
 
+##
+
 <div align="center">
   <a href="https://github.com/Aleezitu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Aleezitu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
